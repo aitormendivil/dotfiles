@@ -1,0 +1,6 @@
+.termite {
+	padding: 4px;
+}
+VteTerminal, vte-terminal {
+	padding: 15px;
+}
